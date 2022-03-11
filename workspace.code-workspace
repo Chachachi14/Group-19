@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Agroconnect-DPD"
+		},
+		{
+			"path": "..\\Java Class"
+		},
+		{
+			"path": "..\\REVISION"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "meuve"
+	}
+}
